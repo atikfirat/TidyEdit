@@ -1,4 +1,5 @@
 # TidyEdit
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **TidyEdit** is a Python desktop application that allows users to load images, 
 apply filters and modifications, and save their edited images. 
@@ -48,3 +49,4 @@ To save your edited image, click on the "Save Image" button and select a locatio
 ## License
 
 **TidyEdit** is licensed under the MIT License. See the LICENSE file for more details.
+
