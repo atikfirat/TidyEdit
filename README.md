@@ -48,4 +48,4 @@ To save your edited image, click on the "Save Image" button and select a locatio
 
 ## License
 
-**TidyEdit** is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
+**TidyEdit** is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
